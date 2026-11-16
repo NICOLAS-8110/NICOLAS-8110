@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6af3d18-f21c-4593-91a3-229c86012902" />
+<img width="1536" height="702" alt="Designer (4)" src="https://github.com/user-attachments/assets/3961479c-cf7f-4811-8e3d-44ff4b6fc477" />
 
 
 # Hola, soy Nicolás Rodríguez Zaraza 👋
