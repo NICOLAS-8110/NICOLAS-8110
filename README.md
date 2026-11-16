@@ -1,30 +1,75 @@
 # Hola, soy Nicolás Rodríguez Zaraza 👋
-### Científico de Datos | Analítica Predictiva & Machine Learning
 
-Transformo datos complejos en insights accionables para resolver problemas reales de negocio mediante análisis estadístico, modelos predictivos y visualización de datos.
+<div align="center">
 
-- 🎓 **Formación:** Estudiante de Ciencia de Datos en el *Politécnico Grancolombiano* y graduado del Bootcamp de Data Science en *TripleTen*.
-- 🔭 **Enfoque:** Ciclo completo del dato (ETL, EDA, Ingeniería de Características, Modelado Predictivo y Comunicación Ejecutiva).
-- 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/nicolás-rodríguez-zaraza-8a937142b/) | [Portafolio en Notion](#)
+## 🔬 Científico de Datos | Analítica Predictiva y Aprendizaje Automático
+**Transformando datos en conocimiento, predicciones y decisiones.**  
+*Python • SQL • Scikit-Learn • LightGBM • Machine Learning • Visualización de datos*
 
----
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/nicol%C3%A1s-rodr%C3%ADguez-zaraza-8a937142b/) 
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank">](https://github.com/NICOLAS-8110/NICOLAS-8110/blob/main/README.md#) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">](https://github.com/NICOLAS-8110)
 
-### 🛠️ Stack Tecnológico
-
-* **Lenguajes y Consultas:** Python, SQL
-* **Análisis y Manipulación de Datos:** Pandas, NumPy
-* **Machine Learning & Deep Learning:** Scikit-Learn, LightGBM, XGBoost, CatBoost, Keras
-* **Visualización:** Matplotlib, Seaborn
-* **Control de Versiones y Entorno:** Git, GitHub, Jupyter Notebook
+</div>
 
 ---
 
-### 📊 Proyectos Destacados
+## 🚀 Sobre mí
 
-1. **[Predicción de Precio de Autos Usados (Machine Learning)](https://github.com/NICOLAS-8110/Prediccion_Precio_Autos_Usados)**
-   * **Problema:** Estimar de forma rápida y precisa el valor de mercado de vehículos usados para evitar errores de valoración.
-   * **Solución:** Comparación de 7 modelos de regresión, seleccionando **LightGBM** (RMSE de 1,492.74 € y tiempo de entrenamiento de 26s) como la solución óptima para producción.
+Soy Científico de Datos graduado del Bootcamp de [TripleTen LatAm](https://www.linkedin.com/school/tripleten-latam/) y estudiante en el *Politécnico Grancolombiano*. Mi enfoque se centra en el análisis avanzado, el modelado predictivo y el aprendizaje automático, construyendo soluciones basadas en evidencia que convierten datos complejos en información accionable para los negocios.
 
-2. **[Análisis de Compras y Patrones de Consumo (EDA)](https://github.com/NICOLAS-8110/Analisis_Compras_Instacart)**
-   * **Problema:** Comprender el comportamiento de compra y recompra de clientes en una plataforma de comestibles a domicilio.
-   * **Solución:** Limpieza de 5 tablas relacionales y análisis exploratorio que identificó horas pico, productos ancla en el carrito y estrategias de retención.
+Desarrollo proyectos *end-to-end* utilizando Python, SQL, Scikit-Learn, Pandas, LightGBM y Keras, aplicando metodologías de análisis reproducibles y orientadas a la optimización de métricas de negocio.
+
+---
+
+## 💡 Lo que encontrarás en este portafolio
+
+✅ Análisis exploratorios de datos (EDA) profundos  
+✅ Modelos de aprendizaje supervisado (Clasificación y Regresión)  
+✅ Procesamiento de Lenguaje Natural (NLP) y Series Temporales  
+✅ Ingeniería de características y optimización de hiperparámetros  
+✅ Manejo de bases de datos relacionales y SQL  
+✅ Casos prácticos de telecomunicaciones, comercio electrónico, minería e industria automotriz  
+✅ Documentación profesional y código reproducible  
+
+---
+
+## 🚀 Proyectos Destacados (Top Pines)
+
+🔹 **[Predicción de Fuga de Clientes (Interconnect)](https://github.com/NICOLAS-8110)** — Modelo de Gradient Boosting (`LightGBM`) para retención de clientes de telecomunicaciones (AUC-ROC: 0.89, Recall: 76%).  
+🔹 **[Clasificación de Sentimientos en Reseñas (Film Junky Union)](https://github.com/NICOLAS-8110)** — Procesamiento de Lenguaje Natural con NLTK, spaCy y TF-IDF para análisis de polaridad (F1-Score: 0.88).  
+🔹 **[Valoración de Autos Usados (Rusty Bargain)](https://github.com/NICOLAS-8110)** — Optimización de modelos de regresión y comparación de latencia con LightGBM (RMSE: 1,683.67).  
+🔹 **[Pronóstico de Demanda de Taxis (Sweet Lift Taxi)](https://github.com/NICOLAS-8110)** — Análisis de series temporales y creación de retardos (*lags*) para predicción horaria (RECM: 45.54).  
+🔹 **[Predicción Petrolera y Evaluación de Riesgos (OilyGiant)](https://github.com/NICOLAS-8110)** — Modelado de regresión y simulaciones de *Bootstrapping* para minimizar riesgos de inversión por debajo del 0.3%.  
+🔹 **[Recuperación de Oro Industrial (Gold Recovery)](https://github.com/NICOLAS-8110)** — Machine Learning aplicado a la minería con métrica de error personalizada (`sMAPE`) y validación cruzada.  
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-3776AB?style=flat&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 📊 Impacto de Mis Proyectos
+
+| 📂 10+ Proyectos Desarrollados | 🤖 Machine Learning (Clasificación y Regresión) | 📈 Análisis Exploratorio (EDA) & SQL | 🐍 Stack Principal en Python |
+| :---: | :---: | :---: | :---: |
+
+---
+
+## 🌐 Conecta Conmigo
+
+📍 **Bogotá, Colombia**  
+📧 [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-rodr%C3%ADguez-zaraza-8a937142b/) • [Portafolio en Notion](https://github.com/NICOLAS-8110/NICOLAS-8110/blob/main/README.md#) • [GitHub](https://github.com/NICOLAS-8110)
