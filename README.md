@@ -1,10 +1,10 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/29ec88cc-65d7-499f-a583-7494468e4265" />
+<div align="center">
+
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/29ec88cc-65d7-499f-a583-7494468e4265" />
 
 # Hola, soy Nicolás Rodríguez Zaraza 👋
 
-<div align="center">
-
-## 🔬 Científico de Datos | Analítica Predictiva y Aprendizaje Automático
+### 🔬 Científico de Datos | Analítica Predictiva y Aprendizaje Automático
 **Transformando datos en conocimiento, predicciones y decisiones.**  
 *Python • SQL • Scikit-Learn • LightGBM • Machine Learning • Visualización de datos*
 
