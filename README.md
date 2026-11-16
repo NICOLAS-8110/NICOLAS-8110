@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="850" alt="Banner" src="https://github.com/user-attachments/assets/29ec88cc-65d7-499f-a583-7494468e4265" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6af3d18-f21c-4593-91a3-229c86012902" />
+
 
 # Hola, soy Nicolás Rodríguez Zaraza 👋
 
