@@ -37,7 +37,7 @@ Desarrollo proyectos *end-to-end* utilizando Python, SQL, Scikit-Learn, Pandas, 
 
 ---
 
-## 🚀 Proyectos Destacados (Top Pines)
+## 🚀 Proyectos Destacados
 
 🔹 **[Predicción de Fuga de Clientes (Interconnect)](https://github.com/NICOLAS-8110)** — Modelo de Gradient Boosting (`LightGBM`) para retención de clientes de telecomunicaciones (AUC-ROC: 0.89, Recall: 76%).  
 🔹 **[Clasificación de Sentimientos en Reseñas (Film Junky Union)](https://github.com/NICOLAS-8110)** — Procesamiento de Lenguaje Natural con NLTK, spaCy y TF-IDF para análisis de polaridad (F1-Score: 0.88).  
