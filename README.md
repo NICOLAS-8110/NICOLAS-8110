@@ -69,7 +69,7 @@ Desarrollo proyectos *end-to-end* utilizando Python, SQL, Scikit-Learn, Pandas, 
 
 ## 📊 Impacto de Mis Proyectos
 
-| 📂 18 Repositorios Públicos | 🤖 Machine Learning (Clasificación, Regresión y CV) | 📈 Análisis Exploratorio (EDA) & SQL | 🐍 Stack Principal en Python |
+| 📂 +18 Proyectos | 🤖 Machine Learning (Clasificación, Regresión y CV) | 📈 Análisis Exploratorio (EDA) & SQL | 🐍 Stack Principal en Python |
 | :---: | :---: | :---: | :---: |
 
 ---
