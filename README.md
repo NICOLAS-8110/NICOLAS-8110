@@ -10,8 +10,8 @@
 *Python • SQL • Scikit-Learn • LightGBM • Machine Learning • Visualización de datos*
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/nicol%C3%A1s-rodr%C3%ADguez-zaraza-8a937142b/) 
-[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank">](https://github.com/NICOLAS-8110/NICOLAS-8110/blob/main/README.md#) 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">](https://github.com/NICOLAS-8110)
+[<img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white" target="_blank">](https://app.notion.com/p/Portafolio-41b9e27b6b6a8018ac1bf56bebb01bb3) 
+[<img src="https://img.shields.io/badge/GitHub-2B3137?style=for-the-badge&logo=github&logoColor=white" target="_blank">](https://github.com/NICOLAS-8110)
 
 </div>
 
@@ -39,12 +39,14 @@ Desarrollo proyectos *end-to-end* utilizando Python, SQL, Scikit-Learn, Pandas, 
 
 ## 🚀 Proyectos Destacados
 
-🔹 **[Predicción de Fuga de Clientes (Interconnect)](https://github.com/NICOLAS-8110)** — Modelo de Gradient Boosting (`LightGBM`) para retención de clientes de telecomunicaciones (AUC-ROC: 0.89, Recall: 76%).  
-🔹 **[Clasificación de Sentimientos en Reseñas (Film Junky Union)](https://github.com/NICOLAS-8110)** — Procesamiento de Lenguaje Natural con NLTK, spaCy y TF-IDF para análisis de polaridad (F1-Score: 0.88).  
-🔹 **[Valoración de Autos Usados (Rusty Bargain)](https://github.com/NICOLAS-8110)** — Optimización de modelos de regresión y comparación de latencia con LightGBM (RMSE: 1,683.67).  
-🔹 **[Pronóstico de Demanda de Taxis (Sweet Lift Taxi)](https://github.com/NICOLAS-8110)** — Análisis de series temporales y creación de retardos (*lags*) para predicción horaria (RECM: 45.54).  
-🔹 **[Predicción Petrolera y Evaluación de Riesgos (OilyGiant)](https://github.com/NICOLAS-8110)** — Modelado de regresión y simulaciones de *Bootstrapping* para minimizar riesgos de inversión por debajo del 0.3%.  
-🔹 **[Recuperación de Oro Industrial (Gold Recovery)](https://github.com/NICOLAS-8110)** — Machine Learning aplicado a la minería con métrica de error personalizada (`sMAPE`) y validación cruzada.  
+*Algunos de mis proyectos destacados:*
+
+🔹 **[Predicción de Fuga de Clientes (Interconnect)](https://github.com/NICOLAS-8110/Sigma-Telecom-Churn-Prediction-ML)** — Modelo de Gradient Boosting (`LightGBM`) para retención de clientes de telecomunicaciones (ROC-AUC: 0.85, Recall: 77.8%).  
+🔹 **[Clasificación de Sentimientos en Reseñas (Film Junky Union)](https://github.com/NICOLAS-8110/Pi-NLP-Sentiment-Analysis)** — Procesamiento de Lenguaje Natural con NLTK, spaCy y TF-IDF para análisis de polaridad (F1-Score: 0.88).  
+🔹 **[Valoración de Autos Usados (Rusty Bargain)](https://github.com/NICOLAS-8110/Xi-Used-Car-Price-Prediction)** — Optimización de modelos de regresión y comparación de latencia con LightGBM (RMSE: 1,683.67).  
+🔹 **[Pronóstico de Demanda de Taxis (Sweet Lift Taxi)](https://github.com/NICOLAS-8110/Omicron-Taxi-Demand-Forecasting)** — Análisis de series temporales y creación de retardos (*lags*) para predicción horaria (RECM: 45.54).  
+🔹 **[Predicción Petrolera y Evaluación de Riesgos (OilyGiant)](https://github.com/NICOLAS-8110/Lambda-oil-well-investment-analysis)** — Modelado de regresión y simulaciones de *Bootstrapping* para minimizar riesgos de inversión por debajo del 0.3%.  
+🔹 **[Recuperación de Oro Industrial (Gold Recovery)](https://github.com/NICOLAS-8110/Mu-Industrial-Gold-Recovery-ML)** — Machine Learning aplicado a la minería con métrica de error personalizada (`sMAPE`: 7.39%) y validación cruzada.  
 
 ---
 
@@ -67,7 +69,7 @@ Desarrollo proyectos *end-to-end* utilizando Python, SQL, Scikit-Learn, Pandas, 
 
 ## 📊 Impacto de Mis Proyectos
 
-| 📂 10+ Proyectos Desarrollados | 🤖 Machine Learning (Clasificación y Regresión) | 📈 Análisis Exploratorio (EDA) & SQL | 🐍 Stack Principal en Python |
+| 📂 18 Repositorios Públicos | 🤖 Machine Learning (Clasificación, Regresión y CV) | 📈 Análisis Exploratorio (EDA) & SQL | 🐍 Stack Principal en Python |
 | :---: | :---: | :---: | :---: |
 
 ---
@@ -75,4 +77,4 @@ Desarrollo proyectos *end-to-end* utilizando Python, SQL, Scikit-Learn, Pandas, 
 ## 🌐 Conecta Conmigo
 
 📍 **Bogotá, Colombia**  
-📧 [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-rodr%C3%ADguez-zaraza-8a937142b/) • [Portafolio en Notion](https://github.com/NICOLAS-8110/NICOLAS-8110/blob/main/README.md#) • [GitHub](https://github.com/NICOLAS-8110)
+📧 [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-rodr%C3%ADguez-zaraza-8a937142b/) • [Portafolio en Notion](https://app.notion.com/p/Portafolio-41b9e27b6b6a8018ac1bf56bebb01bb3) • [GitHub](https://github.com/NICOLAS-8110)
