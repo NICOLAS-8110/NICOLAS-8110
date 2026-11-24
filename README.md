@@ -10,7 +10,7 @@
 *Python • SQL • Scikit-Learn • LightGBM • Machine Learning • Visualización de datos*
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/nicol%C3%A1s-rodr%C3%ADguez-zaraza-8a937142b/) 
-[<img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white" target="_blank">](https://app.notion.com/p/Portafolio-41b9e27b6b6a8018ac1bf56bebb01bb3) 
+[<img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white" target="_blank">](https://whip-cloak-817.notion.site/Portafolio-8329e27b6b6a82d79e13012b8caf9741) 
 [<img src="https://img.shields.io/badge/GitHub-2B3137?style=for-the-badge&logo=github&logoColor=white" target="_blank">](https://github.com/NICOLAS-8110)
 
 </div>
